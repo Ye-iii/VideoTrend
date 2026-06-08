@@ -1,0 +1,6 @@
+pandas
+requests
+google-api-python-client
+pytrends
+python-dotenv
+elasticsearch
